@@ -27,3 +27,7 @@ cd PiCore-mini
 
 **Star ⭐ this repo** to follow our progress!  
 *Born in [Kvantorium Dimitrovgrad](https://kvantorium.ru/).*
+
+
+
+<img width="1920" height="1080" alt="PiCore classic 16x9" src="https://github.com/user-attachments/assets/a249c050-007c-425b-83f4-84cb7b23a5dc" />
