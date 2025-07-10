@@ -1,6 +1,6 @@
 # Intelektika / PiCore mini
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Apache-License-2.0-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-active_development-yellowgreen)](https://github.com/Intelektika-team)
 
 **Compact AI-ready computer for education and makers.**  
