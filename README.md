@@ -1,7 +1,7 @@
 # Intelektika / PiCore mini
 
 [![License](https://img.shields.io/badge/license-Apache_License_2.0-blue.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-active_development-yellowgreen)](https://github.com/Intelektika-team)
+[![Status](https://img.shields.io/badge/status-active_development-yellowgreen)](https://t.me/Intelektika_news)
 
 **Compact AI-ready computer for education and makers.**  
 Hardware design and software for PiCore mini — affordable ML device with Google Coral TPU.
